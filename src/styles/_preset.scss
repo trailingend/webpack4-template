@@ -1,0 +1,52 @@
+* {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    overflow-x: hidden;
+}
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-overflow-scrolling: touch;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+::-webkit-selection {
+    background: transparent;
+    text-shadow: none;
+}
+::-moz-selection {
+    background: transparent;
+    text-shadow: none;
+}
+::selection {
+    background: transparent;
+    text-shadow: none;
+}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+    border: 0; /* For IE 10 */
+}
+select::-ms-expand {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p, a, span, li, button {
+    font-family: 'Open Sans', sans-serif;
+}
