@@ -1,8 +1,7 @@
-#Front-end Viewer for BRNCH
+#Front-end Template 2019
 ----------------------------------
 ## Note:
-- use div with a classname of `brnch-ctnr` as the entry point, pass in data url via the div element
-- include JS and CSS file in your page
+- Starting point with only SCSS, PostCSS dependencies
 
 ## Implementation Steps
 - development command: `npm run dev`
