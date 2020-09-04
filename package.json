@@ -20,7 +20,7 @@
     "image-webpack-loader": "^5.0.0",
     "imagemin-webpack-plugin": "^2.4.2",
     "mini-css-extract-plugin": "^0.7.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-css-variables": "^0.13.0",
     "postcss-cssnext": "^3.1.0",
